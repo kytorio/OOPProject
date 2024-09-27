@@ -1,0 +1,8 @@
+﻿  Grid.cpp
+  main.cpp
+  Sudoku.cpp
+  Sudoku.h
+  正在生成代码...
+C++Project\x64\Debug\Sudoku.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+    正在创建库 E:\Code\OOPProject\923HomeWork\C++Project\x64\Debug\C++Project.lib 和对象 E:\Code\OOPProject\923HomeWork\C++Project\x64\Debug\C++Project.exp
+  C++Project.vcxproj -> E:\Code\OOPProject\923HomeWork\C++Project\x64\Debug\C++Project.exe

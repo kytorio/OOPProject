@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E998A36-D4AC-4C91-9C96-5A5AEE0B5EE1}|C\u002B\u002BProject.vcxproj|E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E998A36-D4AC-4C91-9C96-5A5AEE0B5EE1}|C\u002B\u002BProject.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E998A36-D4AC-4C91-9C96-5A5AEE0B5EE1}|Project1.vcxproj|E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E998A36-D4AC-4C91-9C96-5A5AEE0B5EE1}|Project1.vcxproj|solutionrelative:Grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E998A36-D4AC-4C91-9C96-5A5AEE0B5EE1}|Project1.vcxproj|E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Sudoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E998A36-D4AC-4C91-9C96-5A5AEE0B5EE1}|Project1.vcxproj|solutionrelative:Sudoku.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E998A36-D4AC-4C91-9C96-5A5AEE0B5EE1}|Project1.vcxproj|E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Sudoku.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E998A36-D4AC-4C91-9C96-5A5AEE0B5EE1}|Project1.vcxproj|solutionrelative:Sudoku.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E998A36-D4AC-4C91-9C96-5A5AEE0B5EE1}|Project1.vcxproj|E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0E998A36-D4AC-4C91-9C96-5A5AEE0B5EE1}|Project1.vcxproj|solutionrelative:Grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Grid.cpp",
+              "DocumentMoniker": "E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Grid.cpp",
+              "RelativeDocumentMoniker": "Grid.cpp",
+              "ToolTip": "E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Grid.cpp",
+              "RelativeToolTip": "Grid.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAE8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T14:21:39.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sudoku.cpp",
+              "DocumentMoniker": "E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Sudoku.cpp",
+              "RelativeDocumentMoniker": "Sudoku.cpp",
+              "ToolTip": "E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Sudoku.cpp",
+              "RelativeToolTip": "Sudoku.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T14:21:32.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sudoku.h",
+              "DocumentMoniker": "E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Sudoku.h",
+              "RelativeDocumentMoniker": "Sudoku.h",
+              "ToolTip": "E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Sudoku.h",
+              "RelativeToolTip": "Sudoku.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T14:21:16.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grid.h",
+              "DocumentMoniker": "E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Grid.h",
+              "RelativeDocumentMoniker": "Grid.h",
+              "ToolTip": "E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\Grid.h",
+              "RelativeToolTip": "Grid.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T14:21:07.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\Code\\OOPProject\\923HomeWork\\C\u002B\u002BProject\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-27T14:20:57.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
