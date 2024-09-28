@@ -93,20 +93,20 @@ class Sudoku(Grid):
         return True
 
 
-def SaveObject(obj, filename):  # 序列化
+def SaveSudoku(obj, filename):  # 序列化
     with open(filename, "wb") as f:
         pickle.dump(obj, f)
 
 
-def LoadObject(filename):  # 反序列化
+def LoadSudoku(filename):  # 反序列化
     with open(filename, "rb") as f:
         obj = pickle.load(f)
     return obj
 
 
 def test_SaveLoad(obj, filename):  # 测试函数
-    SaveObject(obj, filename)
-    test_sudoku = LoadObject(filename)
+    SaveSudoku(obj, filename)
+    test_sudoku = LoadSudoku(filename)
     print("sudoku grid_size is:", test_sudoku.grid_size)
     test_sudoku.print_grid()
     test_sudoku.getInference(0, 0)
